@@ -1,0 +1,11 @@
+{
+    "name": "env-inject",
+    "package_version": 2,
+    "version": "1.0.0",
+    "author": "JunJin",
+    "description": "构建前根据配置、环境参数与文本模板生成目标文件，构建后恢复",
+    "main": "./dist/builder.js",
+    "contributions": {
+        "builder": "./dist/builder.js"
+    }
+}

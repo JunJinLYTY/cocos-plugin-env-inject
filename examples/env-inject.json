@@ -1,0 +1,10 @@
+{
+    "output": "assets/Scripts/Define/EnvConfig.ts",
+    "template": "EnvConfig.template.txt",
+    "environments": "envs.json",
+    "defaultEnv": "test",
+    "versionSuffix": {
+        "test": "-test",
+        "prod": ""
+    }
+}

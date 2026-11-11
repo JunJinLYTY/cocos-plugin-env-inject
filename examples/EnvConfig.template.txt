@@ -1,0 +1,6 @@
+/** 此文件由 env-inject 自动生成，请勿手工修改。 */
+export const BUILD_ENV = {{json:env}};
+export const GAME_VERSION = {{json:version}};
+export const WX_CLOUD_ENV_ID = {{json:values.wxCloudEnvId}};
+export const GAME_STORAGE_KEY = {{json:values.storageKey}};
+export const GAME_DOMAIN = {{json:values.domain}};

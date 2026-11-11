@@ -1,0 +1,12 @@
+{
+    "test": {
+        "wxCloudEnvId": "test-id",
+        "storageKey": "tkt-test",
+        "domain": "test-domain"
+    },
+    "prod": {
+        "wxCloudEnvId": "prod-id",
+        "storageKey": "tkt-prod",
+        "domain": "prod-domain"
+    }
+}
